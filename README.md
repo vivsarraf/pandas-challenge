@@ -10,50 +10,48 @@ Using Pandas and Jupyter Notebook, create a report that includes the following d
 
 District Summary
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a data frame.
-
 Include the following:
 
-Total number of unique schools
+* Total number of unique schools
 
-Total Students
+* Total Students
 
-Total budget
+* Total budget
 
-Average math score
+* Average math score
 
-Average reading score
+* Average reading score
 
-% passing math (the percentage of students who passed math)
+* % passing math (the percentage of students who passed math)
 
-% passing reading (the percentage of students who passed reading)
+* % passing reading (the percentage of students who passed reading)
 
-% overall passing (the percentage of students who passed math AND reading)
+* % overall passing (the percentage of students who passed math AND reading)
 
 
 School Summary
 Perform the necessary calculations and then create a data frame that summarizes key metrics about each school.
-
 Include the following:
 
-School name
+* School name
 
-School type
+* School type
 
-Total students
+* Total students
 
-Total school budget
+* Total school budget
 
-Per student budget
+* Per student budget
 
-Average math score
+* Average math score
 
-Average reading score
+* Average reading score
 
-% passing math (the percentage of students who passed math)
+* % passing math (the percentage of students who passed math)
 
-% passing reading (the percentage of students who passed reading)
+* % passing reading (the percentage of students who passed reading)
 
-% overall passing (the percentage of students who passed math AND reading)
+* % overall passing (the percentage of students who passed math AND reading)
 
 
 ## Submission
